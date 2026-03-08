@@ -1,4 +1,4 @@
-# by Damian Wiciński (numer albumu: 95103)
+# by Damian (numer albumu: 95103)
 Projekt natywnej aplikacji chmurowej realizowany w architekturze 3-warstwowej.
 ## Deklaracja Architektury (Mapowanie Azure)
 Ten projekt został zaplanowany z myślą o usługach PaaS (Platform as a Service) w chmurze Azure.
