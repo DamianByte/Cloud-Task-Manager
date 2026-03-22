@@ -17,3 +17,4 @@ Start`, opis zmiennych środowiskowych oraz instrukcję wdrożenia (CI/CD).
 * [x] **Artefakt 2:** Środowisko wielokontenerowe uruchomione lokalnie (Docker Compose).
 * [x] **Artefakt 3:** Dodanie frontendu i uruchomienie w docker
 * [x] **Artefakt 4:** Działająca warstwa logiki backendu
+* [x] **Artefakt 5:** Chmura
