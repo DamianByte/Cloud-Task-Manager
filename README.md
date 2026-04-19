@@ -1,20 +1,30 @@
 # by Damian (numer albumu: 95103)
+
 Projekt natywnej aplikacji chmurowej realizowany w architekturze 3-warstwowej.
+
 ## Deklaracja Architektury (Mapowanie Azure)
+
 Ten projekt został zaplanowany z myślą o usługach PaaS (Platform as a Service) w chmurze Azure.
 | Warstwa | Komponent Lokalny | Usługa Azure |
 |----------------|---------------------------|--------------------------------------|
 | **Presentation** | React 19 (Vite) | Azure Static Web Apps |
 | **Application** | API (.NET 9 / Node 24) | Azure App Service |
 | **Data** | SQL Server (Dev) | Azure SQL Database (Serverless) |
+
 ## Status Projektu i Dokumentacja
+
 - [x] **Artefakt 1:** Zaplanowano strukturę folderów i diagram C4 (dostępny w `/docs`).
 - [ ] **Artefakt 2:** Konfiguracja środowiska Docker (w trakcie...).
-> **Informacja:** Ten plik będzie ewoluował. W kolejnych etapach dodamy tutaj sekcje `Quick
-Start`, opis zmiennych środowiskowych oraz instrukcję wdrożenia (CI/CD).
-## Status Projektu
+  
+  > **Informacja:** Ten plik będzie ewoluował. W kolejnych etapach dodamy tutaj sekcje `Quick
+  > Start`, opis zmiennych środowiskowych oraz instrukcję wdrożenia (CI/CD).
+  
+  ## Status Projektu
 * [x] **Artefakt 1:** Architektura i struktura folderów.
 * [x] **Artefakt 2:** Środowisko wielokontenerowe uruchomione lokalnie (Docker Compose).
 * [x] **Artefakt 3:** Dodanie frontendu i uruchomienie w docker
 * [x] **Artefakt 4:** Działająca warstwa logiki backendu
 * [x] **Artefakt 5:** Chmura
+- [x] **Artefakt 6:** Wdrożenie na Azure
+- [x] **Artefakt 7:** Zabezpieczenie
+- [x] **Artefakt 8:** Automat CI/CD
