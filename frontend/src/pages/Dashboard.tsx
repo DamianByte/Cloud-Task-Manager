@@ -63,7 +63,7 @@ const Dashboard = () => {
 
   return (
     <div style={{ padding: '20px', textAlign: 'center', fontFamily: 'Arial, sans-serif' }}>
-      <h1>☁️ Cloud App Dashboard</h1>
+      <h1 style={{ color: 'gold' }}>☁️ Cloud App Dashboard</h1>
 
       {/* Komunikat o błędzie */}
       {error && (
@@ -84,8 +84,8 @@ const Dashboard = () => {
         <button type="submit" style={{ 
           marginLeft: '10px', 
           padding: '10px 20px', 
-          backgroundColor: '#007bff', 
-          color: 'white', 
+          backgroundColor: '#007bff',
+          color: 'black',
           border: 'none', 
           borderRadius: '4px', 
           cursor: 'pointer' 
