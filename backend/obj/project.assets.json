@@ -5139,19 +5139,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\student-wroclaw\\.nuget\\packages\\": {}
+    "/home/q/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student-wroclaw\\Cloud-Task-Manager\\backend\\CloudBackend.csproj",
+      "projectUniqueName": "/home/q/Desktop/a/cloud-task-manager/backend/CloudBackend.csproj",
       "projectName": "CloudBackend",
-      "projectPath": "C:\\Users\\student-wroclaw\\Cloud-Task-Manager\\backend\\CloudBackend.csproj",
-      "packagesPath": "C:\\Users\\student-wroclaw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student-wroclaw\\Cloud-Task-Manager\\backend\\obj\\",
+      "projectPath": "/home/q/Desktop/a/cloud-task-manager/backend/CloudBackend.csproj",
+      "packagesPath": "/home/q/.nuget/packages/",
+      "outputPath": "/home/q/Desktop/a/cloud-task-manager/backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\student-wroclaw\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/q/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -5223,7 +5223,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.313/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
