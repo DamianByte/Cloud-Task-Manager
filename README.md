@@ -18,4 +18,3 @@ Start`, opis zmiennych środowiskowych oraz instrukcję wdrożenia (CI/CD).
 * [x] **Artefakt 3:** Dodanie frontendu i uruchomienie w docker
 * [x] **Artefakt 4:** Działająca warstwa logiki backendu
 * [x] **Artefakt 5:** Chmura
-* [x] **Artefakt 6:** Dzialajaca aplikacja w Azure
